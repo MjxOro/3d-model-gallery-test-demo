@@ -1,0 +1,23 @@
+
+.bruh{
+  width: 100%;
+  &__header{
+    height: 15vh;
+    padding: 0 3rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: mint;
+
+  }
+  &__nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  &__options{
+    margin: 1rem;
+  }
+}
+
